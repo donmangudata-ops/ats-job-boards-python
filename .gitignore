@@ -1,0 +1,11 @@
+# Output of the scripts
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local settings
+.env
