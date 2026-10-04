@@ -134,11 +134,10 @@ I have not run the Actors for this repo. Their prices and features above come fr
 
 The scripts come from these guides, which explain the traps in the data (mixed currencies, typos in salaries, Workday's date text) in more detail. Each guide has a disclosure at the top.
 
-- [Scrape Greenhouse jobs in Python](https://donmangudata-ops.github.io/scrape-greenhouse-jobs-python/)
-- [Ashby jobs API in Python](https://donmangudata-ops.github.io/ashby-jobs-api-python/)
-- [Lever jobs API in Python](https://donmangudata-ops.github.io/lever-multi-board-python/)
-- [Workday jobs in Python](https://donmangudata-ops.github.io/workday-jobs-python/)
-- [ATS job board APIs compared](https://donmangudata-ops.github.io/ats-job-board-apis-compared/)
+- [Greenhouse Jobs API: Get Every Open Job in Python](https://donmangudata-ops.github.io/greenhouse-jobs-api-python/)
+- [Ashby Job Board API: Jobs and Salaries in Python](https://donmangudata-ops.github.io/ashby-job-board-api-python/)
+- [Lever Postings API: Pull Open Jobs With Python](https://donmangudata-ops.github.io/lever-postings-api-python/)
+- [Workday Jobs API: Pull Open Jobs From Career Sites](https://donmangudata-ops.github.io/workday-jobs-api-python/)
 
 ## Not affiliated
 
