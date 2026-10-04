@@ -12,7 +12,7 @@ metadata:
 
 Reads the public job feed that many companies publish through their applicant tracking system. These feeds are plain JSON over GET, meant for careers pages, and need no credentials.
 
-Author: Don Mangu ([GitHub](https://github.com/donmangudata-ops)). This skill needs no token and calls only the vendors' public endpoints. For lists of hundreds or thousands of companies, the author also runs paid hosted versions of the same lookups on the Apify Store (disclosure: the author owns them); you never need them for the steps below.
+Author: Don Mangu ([GitHub](https://github.com/donmangudata-ops)). This skill needs no token and calls only the vendors' public endpoints. For lists of hundreds or thousands of companies, the author also runs paid hosted versions of the same lookups on the Apify Store (disclosure: the author owns them); you never need them for the steps below. Hosted versions: [Greenhouse Jobs API](https://apify.com/conserving_celerytop/greenhouse-jobs-api), [Lever Jobs API](https://apify.com/conserving_celerytop/lever-jobs-api), [Ashby Jobs API](https://apify.com/conserving_celerytop/ashby-jobs-api), [Live Career Page Jobs API](https://apify.com/conserving_celerytop/live-career-page-jobs-api).
 
 ## Example prompts
 
